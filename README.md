@@ -1,2 +1,2 @@
 # gitdemo
-trigger job
+trigger job/
